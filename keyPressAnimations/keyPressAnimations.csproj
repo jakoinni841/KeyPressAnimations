@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +76,75 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First Scene.pdn" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_Brand_New_Friend_Christmas_Song_m.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character-Front.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character-Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character-Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character-Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First Scene.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mansionTitleScreen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floor pixel with walls and door + decor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Final scene 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Second Room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creepyFirst.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creepySecond.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carDoorSlam.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scene 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Closed Chest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open Chest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piq_96197_400x400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Room 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boi-krampus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Last Room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Room 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gascan.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
